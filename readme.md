@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Myself Nikhil Vaidyar</h1>
 <h3 align="center">I am a Software Engineer @ Victoria Secret</h3>
 
-- 👨‍💻 Experienced software engineer with 5+ years in e-commerce 🛒 and health tech 🏥, focusing on best practices in software engineering and system design through reading and writing technical blogs 📚✍️. Actively contributing to CNCF projects 🛠️ during free periods while exploring fintech opportunities 💳 and learning Rust 🦀.
+- 👨‍💻 Experienced software engineer with 6+ years in e-commerce 🛒 and health tech 🏥, focusing on best practices in software engineering and system design through reading and writing technical blogs 📚✍️. Actively contributing to CNCF projects 🛠️ during free periods while exploring fintech opportunities 💳 and learning Rust 🦀.
   
 
 <h3 align="left">Connect with me:</h3>
